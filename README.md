@@ -2,23 +2,14 @@
 Tensorflow implementation of [**Bridging the Gap between Label- and Reference-based Synthesis in Multi-attribute Image-to-Image Translation**](https://arxiv.org/pdf/2103.02264).
 
 **Overview architecture**
-<p align="center"> <img src="./arch.png" width="55%"><br><center></center></p>
-
-**The network architecture**
-<p align="center"> <img src="./results/architecture.png" width="95%"><br><center></center></p>
-<p align="center"> <img src="./results/CDM.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="./arch.png" width="70%"><br><center></center></p>
 
 ## Experiment Results
-- chair
-<p align="center"> <img src="./results/result1.png" width="55%"><br><center></center></p>
-<p align="center"> <img src="./results/result3.png" width="95%"><br><center></center></p>
 
-- MultiPIE
-<p align="center"> <img src="./results/result2.png" width="95%"><br><center></center></p>
-<p align="center"> <img src="./results/result4.png" width="65%"><br><center></center></p>
-
-- Flow
-<p align="center"> <img src="./results/flow.png" width="65%"><br><center></center></p>
+- CelebA
+<p align="center"> <img src="./l.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="./r1.png" width="65%"><br><center></center></p>
+<p align="center"> <img src="./r2.png" width="65%"><br><center></center></p>
 
 
 ## Preparation
