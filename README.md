@@ -1,4 +1,4 @@
-# Bridging-the-Gap-between-Label--and-Reference-based-Synthesis(ICCV 2021)
+# Bridging the Gap between Label- and Reference based Synthesis(ICCV 2021)
 Tensorflow implementation of [**Bridging the Gap between Label- and Reference-based Synthesis in Multi-attribute Image-to-Image Translation**](https://arxiv.org/pdf/2103.02264).
 
 **Overview architecture**
