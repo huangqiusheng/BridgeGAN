@@ -8,14 +8,14 @@ Tensorflow implementation of [**Bridging the Gap between Label- and Reference-ba
 
 - CelebA
 <p align="center"> <img src="./l.png" width="95%"><br><center></center></p>
-<p align="center"> <img src="./r1.png" width="65%"><br><center></center></p>
-<p align="center"> <img src="./r2.png" width="65%"><br><center></center></p>
+<p align="center"> <img src="./r1.png" width="50%"><br><center></center></p>
+<p align="center"> <img src="./r2.png" width="50%"><br><center></center></p>
 
 
 ## Preparation
 
 - **Prerequisites**
-    - Tensorflow 
+    - Tensorflow 1.15
     - Python 2.x with matplotlib, numpy and scipy
 - **Dataset**
     - [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) 
