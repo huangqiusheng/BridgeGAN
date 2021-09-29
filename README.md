@@ -18,13 +18,8 @@ Tensorflow implementation of [**Bridging the Gap between Label- and Reference-ba
     - Tensorflow 
     - Python 2.x with matplotlib, numpy and scipy
 - **Dataset**
-    - [3D chair](https://www.di.ens.fr/willow/research/seeing3Dchairs/data/rendered_chairs.tar) 
-    - [MultiPIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)
-    - [300w-LP](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
+    - [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) 
 	- Images should be placed in ./datasets/
-- **Download model**
-    - [Tool model](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz)
-        - model should be placed in ./models/
 ## Quick Start
 
 Exemplar commands are listed here for a quick start.
